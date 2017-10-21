@@ -3,6 +3,7 @@ title: 100 Days of Art
 layout: default
 image: days100/DanielIdleYuge.gif
 complete: 2
+description: A fun trip through 100 Days of Art. Starting with the Studio Mini Boss Pixel Art Tutorial
 ---
 
 {% include daylist.html %}
