@@ -2,34 +2,49 @@
 title: 100 Days of Art
 layout: default
 image: days100/DanielIdleYuge.gif
-complete: 2
-description: A fun trip through 100 Days of Art. Starting with the Studio Mini Boss Pixel Art Tutorial
+complete: 3
+description: A fun trip through 100 Days of Art. Starting with the Studio Mini Boss Pixel Art Tutorials
 ---
 
 {% include daylist.html %}
 
+## Day 3
+### A Whiff of Smoke!
+Day 3, let's do this!
+
+Today I'll do the next [tutorial](http://blog.studiominiboss.com/pixelart), which is a smoke effect!
+![Day 3]({{ site.github.url }}/assets/img/projects/days100/Day3SmokeYuge.gif){:class="wide-img"}
+
+It's a puff of smoke, emitting from a wall of some sort.
 
 ## Day 2
 ### Throwing Punches!
 Today is the second day of this series, so let’s dive right into it!
 
-This time, we’ll be doing a simple attack. I went with a punch, which is also the primary example in the [tutorial](http://blog.studiominiboss.com/pixelart).
+This time, I’ll be doing a simple attack. I went with a punch, which is also the primary example in the [tutorial](http://blog.studiominiboss.com/pixelart).
 ![Day 2]({{ site.github.url }}/assets/img/projects/days100/Day2PunchYuge.gif){:class="wide-img"}
 
-The base (i.e. first frame) Is a modified version of the first frame of the idle animation we did on day 0, now with slight shading to indicate how close to the camera a part is, and the arms brought up into a ready stance.
+The base (i.e. first frame) is a modified version of the first frame of the idle animation I did on day 0, now with slight shading to indicate how close to the camera a part is, and the arms brought up into a ready stance.
 
 
 ## Day 1
-### Oooh, Shiny
-Today is day 1 of the pixel art challenge, so I'm starting on the first tutorial:
+### Oooh, Shiny!
+Today is day 1 of the pixel art challenge, so I'm starting on the first [tutorial](http://blog.studiominiboss.com/pixelart):
 
 Shines!
 
 So, for my shiny object, I’ll use the Splendid Screen, from Team Fortress 2.
+![Day 1 Base]({{ site.github.url }}/assets/img/projects/days100/Day1SplendidScreen.gif){:class="narrow-img"}
 
-![Day 1 Yuge]({{ site.github.url }}/assets/img/projects/days100/Day1ShineYuge.gif){:class="narrow-img"}
-![Day 1]({{ site.github.url }}/assets/img/projects/days100/Day1ShineSimpleYuge.gif){:class="narrow-img"}
-![Day 1 Basic]({{ site.github.url }}/assets/img/projects/days100/Day1SplendidScreen.gif){:class="narrow-img"}
+Then, we add a simple shine, just going down the shield.
+![Day 1 Simple]({{ site.github.url }}/assets/img/projects/days100/Day1ShineSimpleYuge.gif){:class="narrow-img"}
+
+Looks pretty nice!
+
+But, to make it even better, we can add an extra flash to it!
+![Day 1 Full]({{ site.github.url }}/assets/img/projects/days100/Day1ShineYuge.gif){:class="narrow-img"}
+
+Perfect!
 
 
 ## Day 0
