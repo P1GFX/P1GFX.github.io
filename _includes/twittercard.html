@@ -1,14 +1,9 @@
 
-  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@p1gfx">
   <meta name="twitter:creator" content="@p1gfx">
 
-  <!-- hardcoding an image here so I don't have to worry about attaching an image to each blog post in the future  -->
-
-  <meta property="og:image" content="{{ site.url }}/assets/img/twitter-card.png" />
-  <meta name="twitter:image:src" content="{{ site.url }}/assets/img/twitter-card.png">
-  <meta content="{{ site.title }}" property="og:site_name">
-
+ 
   <!-- Set a page title, or default to site title if missing for some reason  -->
 
   {% if page.title %}
@@ -32,16 +27,21 @@
   {% endif %}
 
   {% if page.url %}
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <meta name="twitter:url" content="{{ site.github.url }}{{ page.url }}">
+    <meta content="{{ site.github.url }}{{ page.url }}" property="og:url">
+  {% else %}
+    <meta name="twitter:url" content="{{ site.github.url }}">
+    <meta content="{{ site.github.url }}" property="og:url">
   {% endif %}
 
   {% if page.date %}
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   {% endif %}
+
+  <!-- set page image or default to site image  -->
   {% if page.image %}
-    <meta content="{{ site.url }}/assets/img/projects/{{ page.image }}" property="og:image">
-    <meta property="og:image" content="{{ site.url }}/assets/img/projects/{{ page.image }}" />
+    <meta content="{{ site.github.url }}/assets/img/projects/{{ page.image }}" property="og:image">
+    <meta property="og:image" content="{{ site.github.url }}/assets/img/projects/{{ page.image }}" />
   {% else %}
-    <meta content="{{ site.url }}/assets/img/twitter-card.png" property="og:image">
+    <meta content="{{ site.github.url }}/assets/img/twitter-card.png" property="og:image">
   {% endif %}
