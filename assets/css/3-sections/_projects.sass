@@ -1,0 +1,75 @@
+.section-projects
+  overflow-x: hidden
+
+.cover
+  object-fit: cover
+
+.project-container
+  display: block
+  max-width: 960px
+  margin: 0px auto 50px
+  +clearfix
+
+  label
+    position: relative
+    display: block
+    float: left
+    width: 25%
+    cursor: pointer
+
+    .projectbox-unit
+      position: relative
+      overflow: hidden
+      text-align: center
+      padding-top: 100%
+
+      &.done
+        background-color: $bgcolor
+
+      strong
+        display: block
+        color: rgba(0,0,0,0.7)
+        font:
+          weight: 300
+          size: 24px
+        text-transform: uppercase
+        line-height: 1.2
+
+      img
+        display: block
+        max-width: 100%
+        position: absolute
+        top: 0
+        left: 0
+        bottom: 0
+        right: 0
+
+
+    @media screen and (max-width: 760px)
+      width: 50%
+
+
+    .projectbox-overlay
+      +position(absolute)
+      +align-items(center)
+      +justify-content(space-around)
+      +display(flex)
+      background: $accent
+      text-align: center
+      @extend %animationstart_#{$animation}
+
+      strong
+        display: block
+        padding: 0 9%
+        color: white
+        font:
+          weight: 300
+          size: 24px
+        text-transform: uppercase
+        line-height: 1.2
+
+    &:hover
+      z-index: 3
+
+      .projectbox-overlay
+        @extend %#{$animation}

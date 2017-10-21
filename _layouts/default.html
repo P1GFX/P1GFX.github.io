@@ -1,6 +1,3 @@
----
----
-
 <!DOCTYPE html>
 <html class="">
 <head>
@@ -15,26 +12,47 @@
 
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
   <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
   {% include twittercard.html %}
   {% include analytics.html %}
 </head>
 <body>
 
-{% include header.html %}
+<!--{% include header.html %}-->
+<header id="header" class="default-header">
+   <a href="{{ site.github.url }}/index.html">
+       <div class="default-back">{% include icons/icon-back.html %}</div>
+   </a>
+    <nav>
 
-{% include about.html %}
+    </nav>
 
-{% include projects.html %}
+  <h1><span>{{ site.data.settings.title }}</span></h1>
+  <p class="kicker">{{ site.data.settings.description }}</p>
 
+</header>
 
-{% include contact.html %}
+    <section class="detail-content">
 
-{% include form.html %}
+        <strong>{{ page.title }}</strong>
 
+      {{ content }}
 
-{% include footer.html %}
+  </section>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="{{ site.github.url }}/assets/js/functions.js"></script>
-</body>
+    <footer id="footer">
+
+      <div class="lockup">
+
+        <div class="content-wrap">
+          <nav>
+          </nav>
+
+          <p class="copyright">All content copyright {{ site.time | date: '%Y' }}</p>
+        </div>
+
+      </div>
+
+    </footer>
+  </body>
 </html>

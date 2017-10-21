@@ -1,0 +1,11 @@
+<div class="day-container">
+{% for i in (0..{{page.complete}}) reversed %}
+    <a href="#day-{{i}}">
+        <label>
+            <div class="day-unit">
+                Day {{ i }}
+            </div>
+        </label>
+    </a>
+{% endfor %}
+</div>

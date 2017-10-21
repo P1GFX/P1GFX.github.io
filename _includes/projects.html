@@ -1,0 +1,30 @@
+<section class="section-projects">
+
+  <h3 id="projects">Projects</h3>
+
+  <div class="project-container">
+      {% for page in site.pages %}
+      {% if page.title != null %}
+      <a href="{{ site.gihub.url }}{{ page.url }}">
+      <label>
+        <div class="projectbox-unit">
+            {% if page.image %}
+              <img class="cover" src="{{ site.gihub.url }}/assets/img/projects/{{ page.image }}"/>
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+        </div>
+        <div class="projectbox-overlay">
+          <strong>{{ page.title }}</strong>
+        </div>
+      </label>
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    </div>
+
+
+
+  </div>
+</section>

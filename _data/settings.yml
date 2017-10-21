@@ -1,0 +1,72 @@
+#-------------------------------
+# General Site Settings
+
+title: P1GFX
+description: Digital | Graphic | Artist
+email: contact@p1gfx.com
+
+# NOTE: The Logo, Avatar, and Background image are defined in the layout.yml document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Projects, url: '#projects'}
+#- {name: 100DaysOfArt, url: '#days'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Graphics developed by P1GFX. I work mostly in GIMP.'
+  #rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  #rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# can make the blurb longer by adding lines like these
+# Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
+# but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
+# and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+
+blurb: >
+  **P1GFX specializes in making adorable digital art** for people.
+  I like to combine my love of cute characters, web comics, and video games in new ways.
+
+
+skills:
+# edit these however you want changing skills and 1-10 ranking
+- {name: Characters, value: '8'}
+- {name: Pixels, value: '7'}
+- {name: Animation, value: '3'}
+- {name: Learning, value: '10'}
+- {name: Visual Design, value: '5'}
+- {name: Programming, value: '3'}
+
+#-------------------------------
+# Projects Section
+# projects auto added from pages folder
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'http://twitter.com/p1gfx'}
+#- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
+#- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
+#- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
+#- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
