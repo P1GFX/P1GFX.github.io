@@ -1,5 +1,5 @@
 ---
-title: Woo X TF2
+
 layout: default
 image: Woo-Sniper/Woo-Sniper.png
 ---
