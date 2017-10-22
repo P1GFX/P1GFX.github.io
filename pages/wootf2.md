@@ -1,5 +1,5 @@
 ---
-title: Sandra & Woo Plus TF2
+
 layout: default
 image: Sandra-Heavy/Sandra-Heavy.png
 ---
