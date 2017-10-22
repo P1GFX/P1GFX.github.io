@@ -1,5 +1,5 @@
 ---
-title: Sandra X TF2
+
 layout: default
 image: Sandra-Heavy/Sandra-Heavy.png
 ---
