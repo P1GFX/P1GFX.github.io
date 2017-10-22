@@ -2,11 +2,21 @@
 title: 100 Days of Art
 layout: default
 image: days100/DanielIdleYuge.gif
-complete: 3
+complete: 4
 description: A fun trip through 100 Days of Art. Starting with the Studio Mini Boss Pixel Art Tutorials
 ---
 
 {% include daylist.html %}
+
+## Day 4
+### A Running Start!
+Alright, it's day 4.
+
+The [tutorial](http://blog.studiominiboss.com/pixelart) for today is a simple run animation.
+
+![Day4]({{ site.github.url }}/assets/img/projects/days100/Day4RunYuge.gif){:class="wide-img"}
+
+I'm not fully satisfied with how this turned out, but that's ok, maybe I'll revisit this in the future.
 
 ## Day 3
 ### A Whiff of Smoke!
