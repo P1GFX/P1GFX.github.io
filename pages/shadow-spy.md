@@ -1,5 +1,5 @@
 ---
-title: Shadow X TF2
+
 layout: default
 image: Shadow-Spy/Shadow-Spy.png
 ---
