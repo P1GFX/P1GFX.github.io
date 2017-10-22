@@ -1,7 +1,7 @@
 ---
 title: Daniel Homestuck
 layout: default
-image: Daniel-Homestuck/DanielHomestuckRedux.png
+image: Daniel-Homestuck/DanielHomestuck.png
 ---
 
 I made an image of Daniel, from my [100 Days Of Art](http://p1gfx.com/pages/100daysofart/) project, in the style of [Homestuck](mspaintadventures.com).
