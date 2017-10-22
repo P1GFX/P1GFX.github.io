@@ -1,5 +1,5 @@
 ---
-title: Sid X TF2
+
 layout: default
 image: Sid-Scout/Sid-Scout.png
 ---
