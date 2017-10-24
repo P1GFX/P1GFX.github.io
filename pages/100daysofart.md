@@ -13,6 +13,7 @@ description: A fun trip through 100 Days of Art. Starting with the Studio Mini B
 Today's [tutorial](http://blog.studiominiboss.com/pixelart) would have been the top-down run animation, however, I have decided to reverse the order on these two, as I wish to give myself more time for the top-down.
 
 So, today we'll do... Lightning!
+
 ![Day5]({{ site.github.url }}/assets/img/projects/days100/Day6LightningYuge.gif){:class="wide-img"}
 
 A nice bolt of electricity.
