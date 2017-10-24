@@ -2,11 +2,24 @@
 title: 100 Days of Art
 layout: default
 image: days100/DanielIdleYuge.gif
-complete: 4
+complete: 6
 description: A fun trip through 100 Days of Art. Starting with the Studio Mini Boss Pixel Art Tutorials
 ---
 
 {% include daylist.html %}
+
+## Day 6
+### A New Spark!
+Today's [tutorial](http://blog.studiominiboss.com/pixelart) would have been the top-down run animation, however, I have decided to reverse the order on these two, as I wish to give myself more time for the top-down.
+
+So, today we'll do... Lightning!
+![Day5]({{ site.github.url }}/assets/img/projects/days100/Day6LightningYuge.gif){:class="wide-img"}
+
+A nice bolt of electricity.
+
+## Day 5
+### A Break.
+Today's [tutorial](http://blog.studiominiboss.com/pixelart) is the first Pixel Art Fundamentals. For the next one, I'll likely redo an old image, but for today, I've done... no art. However, tommorrow, I should have a new piece completed.
 
 ## Day 4
 ### A Running Start!
