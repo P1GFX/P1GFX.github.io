@@ -2,19 +2,31 @@
 title: 100 Days of Art
 layout: default
 image: days100/DanielIdleYuge.gif
-complete: 6
-description: A fun trip through 100 Days of Art. Starting with the Studio Mini Boss Pixel Art Tutorials
+complete: 7
+description: A fun trip through 100 Days of Art. Starting with the Studio MiniBoss Pixel Art Tutorials
 ---
 
 {% include daylist.html %}
 
+## Day 7
+### Take It From the Top!
+As stated yesterday, today's [tutorial](http:blog.studiominiboss.com/pixelart) is the top-down run animation.
+
+![Day7]({{ site.github.url }}/assets/img/projects/days100/Day7TopDownWalkDownYuge.gif){:class="wide-img"}
+
+A short but sweet little downwards animation.
+
+Due to the difficulty I had, I only made the downward-running animation. In the future, I may make the left-, right-, and upward ones as well.
+
+Tommorrow we'll be returning to the normal order.
+
 ## Day 6
 ### A New Spark!
-Today's [tutorial](http://blog.studiominiboss.com/pixelart) would have been the top-down run animation, however, I have decided to reverse the order on these two, as I wish to give myself more time for the top-down.
+Today's [tutorial](http://blog.studiominiboss.com/pixelart) would have been the top-down run animation, however, I have decided to reverse the order on these two, as I was having quite a bit of trouble with the top-down.
 
 So, today we'll do... Lightning!
 
-![Day5]({{ site.github.url }}/assets/img/projects/days100/Day6LightningYuge.gif){:class="wide-img"}
+![Day6]({{ site.github.url }}/assets/img/projects/days100/Day6LightningYuge.gif){:class="wide-img"}
 
 A nice bolt of electricity.
 
