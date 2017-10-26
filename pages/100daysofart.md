@@ -2,11 +2,22 @@
 title: 100 Days of Art
 layout: default
 image: days100/DanielIdleYuge.gif
-complete: 7
+complete: 8
 description: A fun trip through 100 Days of Art. Starting with the Studio MiniBoss Pixel Art Tutorials
 ---
 
 {% include daylist.html %}
+
+## Day 8
+### Glîtçhës Gålørré¡
+Today we're back on track, this time with glïtchês!
+
+Using a slightly updated version of the first frame of Day 0's animation as a base, I added all four glítçhés from the [tutorial](http:blog.studiominiboss.com/pixelart).
+
+![Day8]({{ site.github.url }}/assets/img/projects/days100/Day8GlitchesYuge.gif){:class="wide-img"}
+
+TtaA Dá¡
+
 
 ## Day 7
 ### Take It From the Top!
