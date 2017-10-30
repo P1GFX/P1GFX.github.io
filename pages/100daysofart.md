@@ -2,15 +2,36 @@
 title: 100 Days of Art
 layout: default
 image: days100/DanielIdleYuge.gif
-complete: 8
+complete: 11
 description: A fun trip through 100 Days of Art. Starting with the Studio MiniBoss Pixel Art Tutorials
 ---
 
 {% include daylist.html %}
 
+## Day 11
+### Heating Up!
+Today I did the fire [tutorial](http:blog.studiominiboss.com/pixelart).
+
+Here it is!
+
+![Day11]({{ site.github.url }}/assets/img/projects/days100/Day11FireYuge.gif){:class="wide-img"}
+
+
+## Day 10
+### Making Waves!
+Today's [tutorial](http:blog.studiominiboss.com/pixelart) is the water tutorial. I decided to do the water tile.
+
+![Day10]({{ site.github.url }}/assets/img/projects/days100/Day10WaterYuge.gif){:class="wide-img"}
+
+## Day 9
+### The Right Way to Go!
+Today was the Level Design [tutorial](http:blog.studiominiboss.com/pixelart), so I added to the top down run with a rightward moving animation. It can also be used for left, by flipping horizontally.
+
+![Day9]({{ site.github.url }}/assets/img/projects/days100/Day9TopDownWalkRightYuge.gif){:class="wide-img"}
+
 ## Day 8
 ### Glîtçhës Gålørré¡
-Today we're back on track, this time with glïtchês!
+Today I'm back on track, this time with glïtchês!
 
 Using a slightly updated version of the first frame of Day 0's animation as a base, I added all four glítçhés from the [tutorial](http:blog.studiominiboss.com/pixelart).
 
@@ -29,7 +50,7 @@ A short but sweet little downwards animation.
 
 Due to the difficulty I had, I only made the downward-running animation. In the future, I may make the left-, right-, and upward ones as well.
 
-Tommorrow we'll be returning to the normal order.
+Tommorrow I'll be returning to the normal order.
 
 ## Day 6
 ### A New Spark!
