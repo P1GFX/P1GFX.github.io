@@ -1,7 +1,7 @@
 ---
 title: Pixel Art Dump
 layout: default
-image: {{ site.github.url }}/assets/img/projects/pixelartdump/NikosleepYuge.png
+image: pixelartdump/NikosleepYuge.png
 ---
 
 ![Daniel, in the style of Pokémon sprites]({{ site.github.url }}/assets/img/projects/pixelartdump/DanielPokémonSprite.png){:class="wide-img"}
