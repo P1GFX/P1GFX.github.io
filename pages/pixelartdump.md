@@ -6,7 +6,7 @@ description: A pixel art dump
 tags: pixel, pokemon
 ---
 
-![Daniel in the style of Pokemon sprites]({{ site.github.url }}/assets/img/projects/PixelArtDump/DanielPokémonSprite.png){:class="wide-img"}
+![Daniel in the style of Pokemon sprites]({{ site.github.url }}/assets/img/projects/PixelArtDump/DanielPokémonSprite.png){:class="wide-img"}
 
 ![A downwards walking sheet of a commisioned character]({{ site.github.url }}/assets/img/projects/PixelArtDump/DownWalk.png){:class="wide-img"}
 
